@@ -1,0 +1,15 @@
+input[name='vf__id']{
+    max-width:  85px !important;
+}
+.pagination{
+    justify-content: center !important;
+}
+
+.page-link{
+    margin-left:    5px !important;
+    border-radius:  5px !important;
+    font-weight:    bold !important;
+}
+.btn-group>button>a{
+    font-size: 20px !important;
+}
